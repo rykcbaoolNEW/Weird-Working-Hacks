@@ -1,3 +1,7 @@
+#I made none of this! Please do not give me credit for it, I simply forked it.
+
+
+
 # WeirdWorkingHacks
 The best Hacks for everything out there
 
